@@ -1,1 +1,11 @@
-venv/
+matplotlib
+pandas
+numpy
+seaborn
+statsmodels
+ipykernel
+bokeh
+mpl-interactions
+ipympl
+plotly
+nbformat
